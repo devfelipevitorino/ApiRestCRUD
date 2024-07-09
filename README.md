@@ -1,4 +1,4 @@
-<h1>🏥 Aplicativo para Clínica Médica - CRUD</h1>
+<h1>🏥 Api para Clínica Médica - CRUD</h1>
 Bem-vindo ao projeto Java Spring Boot para um aplicativo de clínica médica! Este repositório contém um exemplo de aplicação que realiza operações CRUD (Create, Read, Update, Delete) para gerenciar pacientes, médicos e agendamentos de consultas.
 
 <h1>📋 Descrição do Projeto</h1>
